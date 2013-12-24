@@ -20,6 +20,7 @@ if you are in the idle state and sends out any queued up notifications.
 
 ## Requirements
 - Account at [pushover.net](https://pushover.net/)
+- Pushover app installed on your mobile device
 - LWP
 
 
