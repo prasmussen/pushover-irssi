@@ -44,6 +44,7 @@ below. The User Key is also needed and can be found on the front page of
 [pushover.net](https://pushover.net/).
 
 #### Required irssi settings
+- Load script `/script load pushover.pl`
 - Set api key `/set pushover_api_key <api_key>`
 - Set user key `/set pushover_user_key <user_key>`
 
